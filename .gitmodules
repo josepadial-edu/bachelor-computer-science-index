@@ -1,3 +1,6 @@
 [submodule "First year/Linear_Algebra_and_Mathematical_Structures"]
 	path = First year/Linear_Algebra_and_Mathematical_Structures
 	url = https://github.com/josepadial/UGR_GII_ALEM
+[submodule "First year/Calculus"]
+	path = First year/Calculus
+	url = https://github.com/josepadial/UGR_GII_CA
