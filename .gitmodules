@@ -4,3 +4,6 @@
 [submodule "First year/Calculus"]
 	path = First year/Calculus
 	url = https://github.com/josepadial/UGR_GII_CA
+[submodule "First year/Fundamentals_of_Programming"]
+	path = First year/Fundamentals_of_Programming
+	url = https://github.com/josepadial/UGR_GII_FP
