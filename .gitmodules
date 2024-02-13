@@ -7,3 +7,6 @@
 [submodule "First year/Fundamentals_of_Programming"]
 	path = First year/Fundamentals_of_Programming
 	url = https://github.com/josepadial/UGR_GII_FP
+[submodule "First year/Fundamentals_of_Software"]
+	path = First year/Fundamentals_of_Software
+	url = https://github.com/josepadial/UGR_GII_FS
