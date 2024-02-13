@@ -10,3 +10,6 @@
 [submodule "First year/Fundamentals_of_Software"]
 	path = First year/Fundamentals_of_Software
 	url = https://github.com/josepadial/UGR_GII_FS
+[submodule "First year/Fundamentals_of_Physics_and_Technology"]
+	path = First year/Fundamentals_of_Physics_and_Technology
+	url = https://github.com/josepadial/UGR_GII_FFT
