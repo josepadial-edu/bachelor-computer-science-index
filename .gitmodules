@@ -13,3 +13,6 @@
 [submodule "First year/Fundamentals_of_Physics_and_Technology"]
 	path = First year/Fundamentals_of_Physics_and_Technology
 	url = https://github.com/josepadial/UGR_GII_FFT
+[submodule "First year/Statistics"]
+	path = First year/Statistics
+	url = https://github.com/josepadial/UGR_GII_ES
