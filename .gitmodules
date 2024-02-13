@@ -16,3 +16,6 @@
 [submodule "First year/Statistics"]
 	path = First year/Statistics
 	url = https://github.com/josepadial/UGR_GII_ES
+[submodule "First year/Engineering_Business_and_Society"]
+	path = First year/Engineering_Business_and_Society
+	url = https://github.com/josepadial/UGR_GII_IES
