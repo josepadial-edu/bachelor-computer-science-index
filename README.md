@@ -14,13 +14,13 @@ Each subject listed below links to a dedicated repository containing its project
 ---
 
 ## 🎓 First Year
-- [Linear Algebra and Mathematical Structures](https://github.com/josepadial-edu/UGR_GII_ALEM)
-- [Calculus](https://github.com/josepadial-edu/UGR_GII_CA)
-- [Fundamentals of Programming](https://github.com/josepadial-edu/UGR_GII_FP)
-- [Fundamentals of Software](https://github.com/josepadial-edu/UGR_GII_FS)
-- [Fundamentals of Physics and Technology](https://github.com/josepadial-edu/UGR_GII_FFT)
-- [Statistics](https://github.com/josepadial-edu/UGR_GII_ES)
-- [Engineering, Business and Society](https://github.com/josepadial-edu/UGR_GII_IES)
+- [Linear Algebra and Mathematical Structures](https://github.com/josepadial-edu/bsc-linear-algebra-math-structures)
+- [Calculus](https://github.com/josepadial-edu/bsc-calculus)
+- [Fundamentals of Programming](https://github.com/josepadial-edu/bsc-fundamentals-of-programming)
+- [Fundamentals of Software](https://github.com/josepadial-edu/bsc-fundamentals-of-software)
+- [Fundamentals of Physics and Technology](https://github.com/josepadial-edu/bsc-fundamentals-of-physics-technology)
+- [Statistics](https://github.com/josepadial-edu/bsc-statistics)
+- [Engineering, Business and Society](https://github.com/josepadial-edu/bsc-engineering-business-society)
 - [Logic and Discrete Methods](https://github.com/josepadial-edu/UGR_GII_LOG)
 - [Methodology of Programming](https://github.com/josepadial-edu/UGR_GII_MP)
 - [Technology and Organization of Computers](https://github.com/josepadial-edu/UGR_GII_TOC)
